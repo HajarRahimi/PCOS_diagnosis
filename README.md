@@ -27,7 +27,7 @@ As a data analysis instructor seeking practical experience with real-world scena
 
 ### Images of the dashboard
 
-![ScreenShot Demographics](docs/imgPart_I.png)
+![ScreenShot Demographics](docs/img/Part_I.png)
 
 
 ![ScreenShot Demographics](docs/img/Part_II.png)
