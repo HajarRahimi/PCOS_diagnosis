@@ -37,7 +37,7 @@ As a data analysis instructor seeking practical experience with real-world scena
 
 ### Common terms in this business 📖
 - **PCOS:** Polycystic Ovary Syndrome
-- **BMI:**Body mass index
+- **BMI**: Body mass index
 - **Cycle(R/I)**: Show regular (R) and irregular (I) Cycle
 - **Hb(g/dl)**: Refers to the measurement of hemoglobin concentration in blood, expressed in grams per deciliter (g/dL)
 
